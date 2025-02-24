@@ -1,25 +1,46 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from 'react'
+import './App.css'
+import Topbar from './Components/Topbar/Topbar'
+import Header from './Components/Header/Header'
+import Main from './Components/Main/Main'
+import Loading from './Components/Loading/Loading'
+import Footer from './Components/Footer/Footer'
 
-function App() {
+export default function App() {
+
+  const [showLoading, setShowLoading] = useState(true)
+  const [showComponents, setShowComponents] = useState(false)
+
+  useEffect(() => {
+    const timeOut = setTimeout(() => {
+      setShowLoading(false)
+      setShowComponents(true)
+    }, 1800)
+    return () => clearTimeout(timeOut)
+  }, [])
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    <>
+      <div className={`preload ${showLoading ? '' : 'loaded'}`} data-preaload>
+        <div className="circle"></div>
+        <p className="text">Zurvan</p>
+      </div>
+      {
+        showComponents ? (
+          <>
+            <Topbar />
+            <Header />
+            <Main />
+            <Footer />
+          </>
+        ) : (
+          <>
+          </>
+        )
+      }
 
-export default App;
+    </>
+
+
+  )
+}
