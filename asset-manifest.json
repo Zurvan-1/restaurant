@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Zurvan-1.github.io/restaurant/static/css/main.4971ea7c.css",
+    "main.js": "/Zurvan-1.github.io/restaurant/static/js/main.31bfd512.js",
+    "static/js/453.3257c68d.chunk.js": "/Zurvan-1.github.io/restaurant/static/js/453.3257c68d.chunk.js",
+    "static/media/testimonial-bg.jpg": "/Zurvan-1.github.io/restaurant/static/media/testimonial-bg.a81086b826a2e2978ce3.jpg",
+    "static/media/img-pattern.svg": "/Zurvan-1.github.io/restaurant/static/media/img-pattern.148d9c075c75a3e657f7.svg",
+    "static/media/footer-form-pattern.svg": "/Zurvan-1.github.io/restaurant/static/media/footer-form-pattern.7fd6cfcfb07bdb471546.svg",
+    "static/media/footer-form-bg.png": "/Zurvan-1.github.io/restaurant/static/media/footer-form-bg.5919ceba950c7c4cb214.png",
+    "index.html": "/Zurvan-1.github.io/restaurant/index.html",
+    "static/media/separator.svg": "/Zurvan-1.github.io/restaurant/static/media/separator.b98c0c4c2ec1b7cd5908.svg",
+    "main.4971ea7c.css.map": "/Zurvan-1.github.io/restaurant/static/css/main.4971ea7c.css.map",
+    "main.31bfd512.js.map": "/Zurvan-1.github.io/restaurant/static/js/main.31bfd512.js.map",
+    "453.3257c68d.chunk.js.map": "/Zurvan-1.github.io/restaurant/static/js/453.3257c68d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4971ea7c.css",
+    "static/js/main.31bfd512.js"
+  ]
+}
