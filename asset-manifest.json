@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Zurvan-1.github.io/restaurant/static/css/main.4971ea7c.css",
-    "main.js": "/Zurvan-1.github.io/restaurant/static/js/main.31bfd512.js",
-    "static/js/453.3257c68d.chunk.js": "/Zurvan-1.github.io/restaurant/static/js/453.3257c68d.chunk.js",
-    "static/media/testimonial-bg.jpg": "/Zurvan-1.github.io/restaurant/static/media/testimonial-bg.a81086b826a2e2978ce3.jpg",
-    "static/media/img-pattern.svg": "/Zurvan-1.github.io/restaurant/static/media/img-pattern.148d9c075c75a3e657f7.svg",
-    "static/media/footer-form-pattern.svg": "/Zurvan-1.github.io/restaurant/static/media/footer-form-pattern.7fd6cfcfb07bdb471546.svg",
-    "static/media/footer-form-bg.png": "/Zurvan-1.github.io/restaurant/static/media/footer-form-bg.5919ceba950c7c4cb214.png",
-    "index.html": "/Zurvan-1.github.io/restaurant/index.html",
-    "static/media/separator.svg": "/Zurvan-1.github.io/restaurant/static/media/separator.b98c0c4c2ec1b7cd5908.svg",
-    "main.4971ea7c.css.map": "/Zurvan-1.github.io/restaurant/static/css/main.4971ea7c.css.map",
-    "main.31bfd512.js.map": "/Zurvan-1.github.io/restaurant/static/js/main.31bfd512.js.map",
-    "453.3257c68d.chunk.js.map": "/Zurvan-1.github.io/restaurant/static/js/453.3257c68d.chunk.js.map"
+    "main.css": "/restaurant/static/css/main.04e3d4ea.css",
+    "main.js": "/restaurant/static/js/main.1657f592.js",
+    "static/js/453.3257c68d.chunk.js": "/restaurant/static/js/453.3257c68d.chunk.js",
+    "static/media/testimonial-bg.jpg": "/restaurant/static/media/testimonial-bg.a81086b826a2e2978ce3.jpg",
+    "static/media/img-pattern.svg": "/restaurant/static/media/img-pattern.148d9c075c75a3e657f7.svg",
+    "static/media/footer-form-pattern.svg": "/restaurant/static/media/footer-form-pattern.7fd6cfcfb07bdb471546.svg",
+    "static/media/footer-form-bg.png": "/restaurant/static/media/footer-form-bg.5919ceba950c7c4cb214.png",
+    "static/media/separator.svg": "/restaurant/static/media/separator.b98c0c4c2ec1b7cd5908.svg",
+    "index.html": "/restaurant/index.html",
+    "main.04e3d4ea.css.map": "/restaurant/static/css/main.04e3d4ea.css.map",
+    "main.1657f592.js.map": "/restaurant/static/js/main.1657f592.js.map",
+    "453.3257c68d.chunk.js.map": "/restaurant/static/js/453.3257c68d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4971ea7c.css",
-    "static/js/main.31bfd512.js"
+    "static/css/main.04e3d4ea.css",
+    "static/js/main.1657f592.js"
   ]
 }
